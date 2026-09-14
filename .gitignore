@@ -1,0 +1,39 @@
+# ─── Secrets ────────────────────────────────────────────────────────────
+# Never commit: contains a live OpenAI key
+materials/secreto.md
+*.env
+.env
+.env.*
+!.env.example
+
+# ─── Dependencies & build output ────────────────────────────────────────
+node_modules/
+.next/
+out/
+build/
+.vercel/
+.build/
+.deploy-tools/
+output/
+*.tsbuildinfo
+
+# ─── Databases (real user data, recreate with the seed scripts) ─────────
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.db.backup
+
+# ─── Local tooling ──────────────────────────────────────────────────────
+.claude/settings.local.json
+.claude/worktrees/
+tmp/
+.puppeteer/
+
+# ─── Reference bundle (the unpacked materials/ folder is committed) ─────
+materials.zip
+
+# ─── OS noise ───────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.log

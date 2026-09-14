@@ -1,0 +1,17 @@
+node_modules
+.next
+.git
+.build
+.deploy-tools
+output
+materials
+.claude
+.env*
+*.db
+*.db-*
+prisma/**/*.db
+prisma/**/*.db-*
+public/uploads
+scripts/record-*
+scripts/prepare-demo.mjs
+scripts/render-narration.ps1

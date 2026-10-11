@@ -1,0 +1,38 @@
+{
+  "from": "Eye172/compass-showcase",
+  "source_commit": "a3b1f674e4fd626fa558e3de6b9c39b31a1b1288",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "6a6e4954ae346a8a291e42449d0aec71dccc932113670ec40549d229762f999e"
+    },
+    {
+      "path": "docs/awards/README.md",
+      "sha256": "416cf0948cdfa0031fdeae7a615ebdbb1368c89b5b434eaea958433775a02c52"
+    },
+    {
+      "path": "docs/awards/impact-edtech-first-place.png",
+      "sha256": "55421050596f261bf40ac277a44453dbbe6429c9b26844392f7ccf0c9c62db92"
+    },
+    {
+      "path": "docs/awards/manifest.json",
+      "sha256": "f18ce5d05374ac5dc21c540be993cdd8b86bd2da39d2bab19b2b363e36c50c7c"
+    },
+    {
+      "path": "navigator.png",
+      "sha256": "ffa76938cafe82c2d46f086ecd22569e5d013365882b892f11fcbb604980b54f"
+    },
+    {
+      "path": "results.png",
+      "sha256": "7565f0a24e73bbb83c27d89086da146cc5dbeb158835e25603c890616ef634a8"
+    },
+    {
+      "path": "universities.png",
+      "sha256": "2a4569b3039ab9ff98617efca1686969c8fb0e322b30517a7a6e547ad2230908"
+    },
+    {
+      "path": "university-detail.png",
+      "sha256": "fadb548a0d7d5f05914e8a330bf9b2eb758edda208c0d1d5e4b803f4322e3034"
+    }
+  ]
+}

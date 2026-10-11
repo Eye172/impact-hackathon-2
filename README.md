@@ -105,3 +105,8 @@ Configure your own AUTH_SECRET and optional model-provider key. Seed data suppor
 [More projects](https://github.com/Eye172) · [Contact](mailto:shakh090909@gmail.com)
 
 This repository presents the product and its engineering. The implementation and presentation materials are published together in this repository. Screenshots and documented experiments are identified in their captions; a live deployment is not required to explore the case study.
+
+
+---
+
+<sub>Account history: Magitcian172 → Eye172 (same developer). [Authorship note](AUTHORSHIP.md).</sub>
